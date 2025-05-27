@@ -1,0 +1,91 @@
+{
+  "data": {
+    "themes": [
+      {
+        "themes_discription": "Безопасность",
+        "themes_link": "#"
+      },
+      {
+        "themes_discription": "Болтовня",
+        "themes_link": "#"
+      },
+      {
+        "themes_discription": "Игры",
+        "themes_link": "#"
+      },
+      {
+        "themes_discription": "Умный дом",
+        "themes_link": "#"
+      },
+      {
+        "themes_discription": "Юмор",
+        "themes_link": "#"
+      },
+      {
+        "themes_discription": "OpenSource",
+        "themes_link": "#"
+      }
+    ],
+    "news": [
+      {
+        "news_discription": "Из VK-группы создателей GTA: Vice City Nextgen Edition пропали все ссылки и упоминания мода"
+      },
+      {
+        "news_discription": "Из VK-группы создателей GTA: Vice City Nextgen Edition пропали все ссылки и упоминания мода"
+      },
+      {
+        "news_discription": "Из VK-группы создателей GTA: Vice City Nextgen Edition пропали все ссылки и упоминания мода"
+      }
+    ],
+    "posts": [
+      {
+        "posts_discription": "Из VK-группы создателей GTA: Vice City Nextgen Edition пропали все ссылки и упоминания мода",
+        "posts_underdiscription": "Возможно, до моддеров добралась Take-Two.",
+        "posts_picture": "assets/media/news_picture_1.webp",
+        "posts_link": "#"
+      },
+      {
+        "posts_discription": "Из VK-группы создателей GTA: Vice City Nextgen Edition пропали все ссылки и упоминания мода",
+        "posts_underdiscription": "Возможно, до моддеров добралась Take-Two.",
+        "posts_picture": "assets/media/news_picture_1.webp",
+        "posts_link": "#"
+      },
+      {
+        "posts_discription": "Из VK-группы создателей GTA: Vice City Nextgen Edition пропали все ссылки и упоминания мода",
+        "posts_underdiscription": "Возможно, до моддеров добралась Take-Two.",
+        "posts_picture": "assets/media/news_picture_1.webp",
+        "posts_link": "#"
+      },
+      {
+        "posts_discription": "Из VK-группы создателей GTA: Vice City Nextgen Edition пропали все ссылки и упоминания мода",
+        "posts_underdiscription": "Возможно, до моддеров добралась Take-Two.",
+        "posts_picture": "assets/media/news_picture_1.webp",
+        "posts_link": "#"
+      },
+      {
+        "posts_discription": "Из VK-группы создателей GTA: Vice City Nextgen Edition пропали все ссылки и упоминания мода",
+        "posts_underdiscription": "Возможно, до моддеров добралась Take-Two.",
+        "posts_picture": "assets/media/news_picture_1.webp",
+        "posts_link": "#"
+      },
+      {
+        "posts_discription": "Из VK-группы создателей GTA: Vice City Nextgen Edition пропали все ссылки и упоминания мода",
+        "posts_underdiscription": "Возможно, до моддеров добралась Take-Two.",
+        "posts_picture": "assets/media/news_picture_1.webp",
+        "posts_link": "#"
+      },
+      {
+        "posts_discription": "Из VK-группы создателей GTA: Vice City Nextgen Edition пропали все ссылки и упоминания мода",
+        "posts_underdiscription": "Возможно, до моддеров добралась Take-Two.",
+        "posts_picture": "assets/media/news_picture_1.webp",
+        "posts_link": "#"
+      },
+      {
+        "posts_discription": "Из VK-группы создателей GTA: Vice City Nextgen Edition пропали все ссылки и упоминания мода",
+        "posts_underdiscription": "Возможно, до моддеров добралась Take-Two.",
+        "posts_picture": "assets/media/news_picture_1.webp",
+        "posts_link": "#"
+      }
+    ]
+  }
+}
